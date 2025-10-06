@@ -38,7 +38,7 @@ O projeto busca responder a perguntas como:
 
 Gráfico gerado:
 
-![Despesa média por cargo](output/grafico_2024.png)
+![Despesa média por cargo](output/figura_2024.png)
 
 ---
 

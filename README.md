@@ -89,7 +89,6 @@ Durante o desenvolvimento, foram explorados:
 
 **Matheus Lança**  
 Curso: *Python para Dados – Asimov Academy*  
-[LinkedIn opcional](#)
 
 ---
 
